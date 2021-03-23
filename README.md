@@ -13,12 +13,11 @@ Finally, I plan to publish the application and have it tested by various people 
 # Tools and Techniques
 
 The main tools and techniques i will employ are:
-- **Unity**: for the game development \[2\].
-- **Unity Analytics**: for post release data collection \[3\].
+- **Unity**: for the game development.
+- **Unity Analytics**: for post release data collection.
 ...
 
 # Expected Outcomes
-*Here you should itemize the specific project outcomes.*
 
 We expect the following outcomes from this project:
 - A fully functional game.
@@ -30,7 +29,8 @@ We expect the following outcomes from this project:
 
 
 # Summary
-The purpose of this project is to experiment with cross-device interaction and determine how feasible it can be in practice. Our goal is to consider implementation strategies and experiment with at least one use-case scenario. If successful, the prototype software components developed in this project could foster cross-device interaction in real application in the future.
+The purpose of this project is to experiment with the development of an entertainment product strongly based on human-computer interaction. 
+The goal is therefore to create a simple videogame application but above all an intuitive application, immediate and pleasant to use on various devices.
 
 # Project Documents
 
