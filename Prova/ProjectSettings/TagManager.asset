@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Exit
+  - Soda
+  - Food
+  - Enemy
+  - Wall
+  - Chest
+  - Bomb
+  - Canvas
+  - MusicSlider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BlockingLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Layer 1
+  - Layer 2
+  - Layer 3
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 2425651459
+    locked: 0
+  - name: Shadows
+    uniqueID: 1047318653
+    locked: 0
+  - name: Items
+    uniqueID: 4250941897
+    locked: 0
+  - name: Units
+    uniqueID: 4189426099
+    locked: 0
+  - name: Loot
+    uniqueID: 3206633715
+    locked: 0

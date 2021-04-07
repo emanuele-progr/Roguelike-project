@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a774c797d9875054dbc119fe925e69f7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - boardScript: {instanceID: 0}
+  - player: {instanceID: 0}
+  - hpText: {instanceID: 0}
+  - drinkPotion: {fileID: 8300000, guid: 74724b34df94049418d9487cda97ecc5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

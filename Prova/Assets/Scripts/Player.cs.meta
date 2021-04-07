@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 0a96ede96b476434bbc35faa1c509341
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hpText: {instanceID: 0}
+  - foodText: {instanceID: 0}
+  - healthBar: {instanceID: 0}
+  - foodBar: {instanceID: 0}
+  - loader: {instanceID: 0}
+  - attackSound1: {instanceID: 0}
+  - attackSound2: {instanceID: 0}
+  - moveSound1: {instanceID: 0}
+  - moveSound2: {instanceID: 0}
+  - eatSound1: {instanceID: 0}
+  - eatSound2: {instanceID: 0}
+  - gameOverSound: {instanceID: 0}
+  - drinkPotion: {fileID: 8300000, guid: 74724b34df94049418d9487cda97ecc5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

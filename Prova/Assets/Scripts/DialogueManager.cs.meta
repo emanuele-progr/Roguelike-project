@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ad36d25ea5b26ce4fa9d3a3c6ef25a5a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - nameText: {instanceID: 0}
+  - dialogueText: {instanceID: 0}
+  - animator: {instanceID: 0}
+  - tic: {fileID: 8300000, guid: 58420000b82953c48b0a3bcfa9d70967, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
