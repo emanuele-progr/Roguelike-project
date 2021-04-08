@@ -381,6 +381,22 @@ public class Enemy : MovingObject
         
     }
 
+    public void LoseHealth(int loss)
+    {
+        animator.SetTrigger("enemyHit");
+        Invoke("PlaySingleHit", 0.4f);
+        hp -= loss;
+        if (hp < 0)
+            hp = 0;
+        CheckIfDeath();
+        TextPopUp.Create(transform.position, loss);
+        Invoke("stunText", 1f);
+
+        stunCounter = stunCounter * 2;
+        stunned = true;
+
+
+    }
     public void stunText()
     {
         TextPopUp.Create(transform.position, 0);

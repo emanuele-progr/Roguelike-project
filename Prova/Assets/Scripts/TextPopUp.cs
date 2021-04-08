@@ -66,6 +66,17 @@ public class TextPopUp : MonoBehaviour
                 textMesh.SetText("SPEED UP");
                 textMesh.fontSize = 5;
             }
+            else if (damage == 101)
+            {
+                textMesh.SetText("SPEED + 1");
+                textMesh.fontSize = 5;
+            }
+            else if (damage == 102)
+            {
+                textMesh.SetText("MAXHP + 50");
+                textMesh.fontSize = 5;
+            }
+
             else
             {
                 textMesh.SetText("+" + damage.ToString());

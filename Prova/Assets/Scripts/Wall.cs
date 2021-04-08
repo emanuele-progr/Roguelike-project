@@ -77,6 +77,8 @@ public class Wall : MonoBehaviour
                             //GameManager.instance.inventoryIcons = lootPool;
                             GameManager.instance.player.maxHp += 50;
                             GameManager.instance.maxHpBuffed = true;
+                            TextPopUp.Create(GameManager.instance.player.transform.position, 102, false);
+
                         }
                         else
                         {

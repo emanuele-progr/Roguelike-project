@@ -31,11 +31,13 @@ public class BoardManager : MonoBehaviour
     public Count foodCount = new Count(1, 4);                        //Lower and upper limit for our random number of food items per level.
     public Count chestCount = new Count(1, 3);
     public Count bombCount = new Count(1, 3);
+    public Count trapCount = new Count(0, 2);
     public GameObject exit;                                          //Prefab to spawn for exit.
     public GameObject[] floorTiles;                                    //Array of floor prefabs.
     public GameObject[] wallTiles;                                     //Array of wall prefabs.
     public GameObject[] chestTiles;
     public GameObject[] bombTiles;
+    public GameObject[] trapTiles;
     public GameObject[] foodTiles;                                    //Array of food prefabs.
     public GameObject[] enemyTiles;
     public GameObject[] bossTiles;
@@ -306,6 +308,7 @@ public class BoardManager : MonoBehaviour
         if (GameManager.instance.level != 1)
         {
             LayoutObjectAtRandom(bombTiles, bombCount.minimum, bombCount.maximum);
+            LayoutObjectAtRandom(trapTiles, trapCount.minimum, trapCount.maximum);
         }
         //Determine number of enemies based on current level number, based on a logarithmic progression
         int enemyCount = (int)Mathf.Log(level, 2f);

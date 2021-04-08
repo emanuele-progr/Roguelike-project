@@ -99,6 +99,8 @@ public class Player : MovingObject
     {
         playerSpeed += i;
         originalSpeed += i;
+        TextPopUp.Create(transform.position, 101, false);
+
     }
 
     public bool MoveFromTrap(int xDir, int yDir)
@@ -429,7 +431,27 @@ public class Player : MovingObject
         foodText.text = " Food points : " + foodPoints;
         stunned = true;
 
-        //CheckIfGameOver();
+        
+    }
+
+
+    public void LoseHealth(int loss)
+    {
+        animator.SetTrigger("playerHit");
+        Invoke("PlaySingleHit", 0.4f);
+        hp -= loss;
+        if (hp < 0)
+            hp = 0;
+        CheckIfGameOver();
+        TextPopUp.Create(transform.position, loss);
+        Invoke("stunText", 1f);
+        
+
+        hpText.text = " HP : " + hp;
+        stunCounter = 6;
+        stunned = true;
+
+        
     }
 
     public void PlaySingleHit()

@@ -99,6 +99,9 @@ MonoBehaviour:
   bombCount:
     minimum: 1
     maximum: 3
+  trapCount:
+    minimum: 0
+    maximum: 2
   exit: {fileID: 2991226351286312438, guid: fc90e2e27613d8e42b923f5f1462aa1f, type: 3}
   floorTiles:
   - {fileID: 2035990501124505655, guid: 034e498561d0d75439d9f2f6811f2c04, type: 3}
@@ -117,10 +120,14 @@ MonoBehaviour:
   - {fileID: 4877361877952124719, guid: a336ba3cd642b154aa25e45216327472, type: 3}
   - {fileID: 2329685809286216174, guid: 744f5014d9009374abe96085bfcbc567, type: 3}
   - {fileID: 5158112280450867468, guid: dec85ff7046c8bb44a1e1d72f7f1d921, type: 3}
+  - {fileID: 8041294535542777714, guid: 5b88c473f10bfa4438fa98ec57e710bb, type: 3}
+  - {fileID: 1729041971689716691, guid: 3fcd2a627f3175b4d84dd42032d067f8, type: 3}
   chestTiles:
   - {fileID: 5247497846080883097, guid: 4159d8757fdf74745a17a35a069e4adb, type: 3}
   bombTiles:
   - {fileID: 7008176617781217318, guid: b15a0f1dcf196074bb3bae82a8222d48, type: 3}
+  trapTiles:
+  - {fileID: 8604412572449318110, guid: f5d49b1c969bfb946a0545d8f9dd2387, type: 3}
   foodTiles:
   - {fileID: 5245231124208907012, guid: 731ecde447b9a394a9a9b3dc2e62abb7, type: 3}
   - {fileID: 8095608638674022765, guid: 429294f04c60d384183f540e3c0bcf81, type: 3}
