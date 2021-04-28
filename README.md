@@ -11,7 +11,7 @@ Next, I will deal with refining the interface, menus and various screens paying 
 Finally, I plan to publish the application and have it tested by various people to collect feedbacks both manually and automatically through some tools (Usability Testing). 
 
 # Installation / How to play
-Simply import the project to Unity and build for the desired platform OR play in browser [here](https://ema-tko.itch.io/thestarvinggame).
+Simply import the project to Unity and build for the desired platform OR play in browser [here](https://ema-tko.itch.io/thestarvinggame).   
 https://ema-tko.itch.io/thestarvinggame
 
 
