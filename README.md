@@ -9,8 +9,10 @@ In this project i will implement a 2D roguelike game mainly using Unity and C# p
   
 Next, I will deal with refining the interface, menus and various screens paying particular attention to human interaction, visual and audio feedbacks and making the use of the application as pleasant as possible according to my possibilities.   
 Finally, I plan to publish the application and have it tested by various people to collect feedbacks both manually and automatically through some tools (Usability Testing).  
-![2enemyboard](https://user-images.githubusercontent.com/22282000/116479285-a8214e00-a87f-11eb-9e1a-38504ec6c81e.png)
-![minotaurBoss](https://user-images.githubusercontent.com/22282000/116479287-a8b9e480-a87f-11eb-84a0-939c80bec857.png)
+
+![minotaurBossResized](https://user-images.githubusercontent.com/22282000/116479670-562cf800-a880-11eb-94d1-ef03ede89a97.png)
+![2enemyboardResized](https://user-images.githubusercontent.com/22282000/116479672-56c58e80-a880-11eb-91e5-6d46e5f0199a.png)
+![menù combined 2Resized](https://user-images.githubusercontent.com/22282000/116479675-575e2500-a880-11eb-9662-cf0e6ec34e54.png)
 
 # Tools and Techniques
 
