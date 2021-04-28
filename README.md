@@ -21,11 +21,11 @@ The main tools and techniques are:
 # Expected Outcomes
 
 We expect the following outcomes from this project:
-- A fully functional game.
-- An integration with mobile devices and touch controls.
-- A series of usability tests.
-- A open source release on Github and/or in play store/itch.io . 
-- A good environment to test Deep reinforcement learning algorithms.
+- A fully functional game. :heavy_check_mark:
+- An integration with mobile devices and touch controls. :heavy_check_mark:
+- A series of usability tests. :heavy_check_mark:
+- A open source release on Github and/or in play store/itch.io . :heavy_check_mark:
+- A good environment to test Deep reinforcement learning algorithms. :heavy_check_mark:
 
 
 
