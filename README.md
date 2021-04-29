@@ -5,10 +5,12 @@
 - **Student**: Marioemanuele Ghianni
 - **CFUs**: 9 
 
-In this project i will implement a 2D roguelike game mainly using Unity and C# programming.  
-  
-Next, I will deal with refining the interface, menus and various screens paying particular attention to human interaction, visual and audio feedbacks and making the use of the application as pleasant as possible according to my possibilities.   
-Finally, I plan to publish the application and have it tested by various people to collect feedbacks both manually and automatically through some tools (Usability Testing). 
+
+This project is a 2D roguelike game developed through Unity and C# programming  for the university course of Human Computer Interaction.  
+The purpose of this project is to experiment with the development of an entertainment product strongly based on HCI with particular attention to visual and audio feddbacks and making the use of the application as pleasant as possible.    
+The goal was to create a simple videogame application but above all an intuitive application, immediate and pleasant to use on various devices. 
+For these reasons, the game is also cross-platform and playable on mobile devices via apk as well as on PC via executable; It was also published on itch.io in a browser-playable version on any PC and mobile device.  
+Finally, various usability tests were conducted both through automatic tools and through interviews.  
 
 # Installation / How to play
 Simply import the project to Unity and build for the desired platform OR play in browser [here](https://ema-tko.itch.io/thestarvinggame).   
@@ -42,10 +44,6 @@ We expect the following outcomes from this project:
 - A good environment to test Deep reinforcement learning algorithms. :heavy_check_mark:
 
 
-
-# Summary
-The purpose of this project is to experiment with the development of an entertainment product strongly based on human-computer interaction.   
-The goal is therefore to create a simple videogame application but above all an intuitive application, immediate and pleasant to use on various devices.  
 
 # Project Documents
 
