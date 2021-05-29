@@ -359,7 +359,7 @@ public class Player : MovingObject
         joy.overTolerance = false;
 
         }
-    }
+    
         /*
             //Check if Input has registered more than zero touches
             if (Input.touchCount > 0)
