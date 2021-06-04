@@ -46,6 +46,6 @@ We expect the following outcomes from this project:
 
 
 # Project Documents
+Report [here](https://github.com/emanuele-progr/Roguelike-project/blob/main/Final_Project_HCI_report.pdf).  
 
 
-# Bibliography
